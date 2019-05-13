@@ -6,7 +6,7 @@
 Messages written in the SLOPI (pronounced "sloppy") communication style are:
 
 - Searchable: Messages can be found using Google or other search engines.
-- Linkable: Messages have a permalink.
+- Linkable: Messages have a permalink on the web.
 - Open: Messages are in the open.
 - Public: Messages are public.
 - Indexed: Messages are indexed by search engines.
