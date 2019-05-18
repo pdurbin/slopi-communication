@@ -1,6 +1,6 @@
 # Searchable Linkable Open Public Indexed (SLOPI) Communication
 
-[![Gitter](https://badges.gitter.im/good-labs/community.svg)](https://gitter.im/good-labs/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+[![Gitter](https://badges.gitter.im/good-labs/community.svg)](https://gitter.im/good-labs/community)
 [![https://good-labs.github.io/greater-good-affirmation/assets/images/badge.svg](https://good-labs.github.io/greater-good-affirmation/assets/images/badge.svg)](https://good-labs.github.io/greater-good-affirmation)
 
 Messages written in the SLOPI (pronounced "sloppy") communication style are:
