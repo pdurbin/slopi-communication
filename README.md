@@ -50,6 +50,13 @@ The SLOPI style can take some getting used to if you are new to open source cult
 [communications]: https://www.apache.org/dev/pmc.html#mailing-list-naming-policy
 [use of mailing lists]: https://apache.org/foundation/mailinglists.html
 
+### Debian will not hide problems
+
+Commitment 3 from the [Debian Social Contract][] is "**We will not hide problems**" and is expressed in this way (emphasis added):
+
+> "We will keep our entire bug report database **open for public view at all times**. Reports that people file online will promptly become visible to others."
+
+[Debian Social Contract]: https://www.debian.org/social_contract
 
 ## Companies involved in open source that favor a SLOPI communication style
 
