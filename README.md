@@ -33,6 +33,24 @@ The SLOPI style can take some getting used to if you are new to open source cult
 
 ## Open source organizations that favor a SLOPI communication style
 
+### The Apache Software Foundation (ASF) requires open communications
+
+[The Apache Way][] indicates an embrace of open communications, saying (emphasis added):
+
+> "**Open Communications**: as a virtual organization, **the ASF requires all communications related to code and decision-making to be publicly accessible** to ensure asynchronous collaboration, as necessitated by a globally-distributed community. Project mailing lists are archived, publicly accessible, and include:
+> 
+> - dev@ (primary project development);
+> - user@ (user community discussion and peer support);
+> - commits@ (automated source change notifications); and
+> - occasionally supporting roles such as marketing@ (project visibility),
+> 
+> ...as well as restricted, day-to-day operational lists for Project Management Committees. **Private decisions on code, policies, or project direction are disallowed; off-list discourse and transactions must be brought on-list.** More on [communications][] and the [use of mailing lists][]."
+
+[The Apache Way]: https://apache.org/theapacheway/
+[communications]: https://www.apache.org/dev/pmc.html#mailing-list-naming-policy
+[use of mailing lists]: https://apache.org/foundation/mailinglists.html
+
+
 ## Companies involved in open source that favor a SLOPI communication style
 
 ## Contributing
