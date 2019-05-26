@@ -68,6 +68,17 @@ The [Single Source of Truth][] section of the "GitLab Values" chapter of their t
 
 [Single Source of Truth]: https://about.gitlab.com/handbook/values/#single-source-of-truth
 
+### Mozilla has an FAQ and resources for when, why and how to work open
+
+Mozilla's [Working open][] FAQ came out of a 2013 [Practicing Open][] talk and has the following to say under **Open vs. Transparent** about moving from "passively transparent" to "open" (emphasis added):
+
+- **transparent**: Public, but not necessarily enabling participation.
+- **passively transparent**: Not private; decisions aren’t actively hidden, but are difficult to locate. They may not even be documented. This is usually not done intentionally.
+- **actively transparent**: **Everything is written down, is easily searchable and is locatable by interested parties.** This requires intentional, sustained effort.
+- **open**: **Public and participatory. This requires structuring efforts so that "outsiders" can meaningfully participate (and become "insiders" as appropriate).**
+
+[Working open]: https://wiki.mozilla.org/Working_open
+[Practicing Open]: https://openmatt.org/2013/10/02/open_mozilla/
 
 ## Contributing
 
