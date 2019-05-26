@@ -31,6 +31,10 @@ While open source projects should endeavor to communicate in the SLOPI style whe
 
 The SLOPI style can take some getting used to if you are new to open source culture. It's ok to be a little sloppy. Please don't worry if the message you send isn't perfect. The fact that you sent it in the open is appreciated. Open source is getting friendlier. A thick skin isn't as necessary as it was in the past.
 
+## Open source organizations that favor a SLOPI communication style
+
+## Companies involved in open source that favor a SLOPI communication style
+
 ## Contributing
 
 We love contributors! Please see our [Contributing Guide][] for ways you can help.
