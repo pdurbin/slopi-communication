@@ -82,7 +82,9 @@ Mozilla's [Working open][] FAQ came out of a 2013 [Practicing Open][] talk and h
 
 ## Academic research
 
-[Considering the Use of Walled Gardens for FLOSS Project Communication][] by [Megan Squire][] is an interesting read. Please note that a few things have changed since the paper was published in 2017. For example, Slack no longer support IRC nor XMPP.
+### Considering the Use of Walled Gardens for FLOSS Project Communication by Megan Squire
+
+In [Considering the Use of Walled Gardens for FLOSS Project Communication][] [Megan Squire][] argues that transparency in decision making is a key value in many free, libre, and open source (FLOSS) software projects, often achieved through publicly archived mailing lists. She names a number of projects with publicly logged IRC channels such Ubuntu, OpenStack, Puppet, Perl 6, and many Apache projects. She describes an increasingly popular practice of using Slack and among the 18 projects she surveyed "the majority of projects which are using walled gardens are not creating archives of these communications." She argues that "archives preserve a record of decisions and can help bring new contributors up to speed."
 
 [Considering the Use of Walled Gardens for FLOSS Project Communication]: https://doi.org/10.1007/978-3-319-57735-7_1
 [Megan Squire]: https://github.com/megansquire
