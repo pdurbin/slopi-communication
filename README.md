@@ -80,6 +80,13 @@ Mozilla's [Working open][] FAQ came out of a 2013 [Practicing Open][] talk and h
 [Working open]: https://wiki.mozilla.org/Working_open
 [Practicing Open]: https://openmatt.org/2013/10/02/open_mozilla/
 
+## Academic research
+
+[Considering the Use of Walled Gardens for FLOSS Project Communication][] by [Megan Squire][] is an interesting read. Please note that a few things have changed since the paper was published in 2017. For example, Slack no longer support IRC nor XMPP.
+
+[Considering the Use of Walled Gardens for FLOSS Project Communication]: https://doi.org/10.1007/978-3-319-57735-7_1
+[Megan Squire]: https://github.com/megansquire
+
 ## Contributing
 
 We love contributors! Please see our [Contributing Guide][] for ways you can help.
