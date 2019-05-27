@@ -2,6 +2,4 @@
 
 There's a rough project plan at https://good-labs.github.io/docs/projects/slopi-communication/#project-plan
 
-The kanban board can be found at https://github.com/orgs/good-labs/projects/3
-
-The first task is to create GitHub issues and add them to the board.
+The kanban board can be found at https://github.com/orgs/good-labs/projects/3 and you are welcome to create issues with any ideas you have. If you'd rather chat about your ideas first, please join the conversation at https://gitter.im/good-labs/community . Thanks!
