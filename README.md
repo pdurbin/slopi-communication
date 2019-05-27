@@ -64,7 +64,7 @@ Commitment 3 from the [Debian Social Contract][] is "**We will not hide problems
 
 The [Single Source of Truth][] section of the "GitLab Values" chapter of their team handbook states (emphasis added):
 
-> **By having most company communications and work artifacts be internet-public, we have one single source of truth for all GitLab team members, users, customers, and other community members.** We don't need separate artifacts with different permissions for different people.**
+> **By having most company communications and work artifacts be internet-public, we have one single source of truth for all GitLab team members, users, customers, and other community members.** We don't need separate artifacts with different permissions for different people.
 
 [Single Source of Truth]: https://about.gitlab.com/handbook/values/#single-source-of-truth
 
