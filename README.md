@@ -4,6 +4,8 @@
 [![Kanban](https://img.shields.io/badge/kanban-board-black.svg)](https://github.com/orgs/good-labs/projects/3#column-5299249)
 [![https://good-labs.github.io/greater-good-affirmation/assets/images/badge.svg](https://good-labs.github.io/greater-good-affirmation/assets/images/badge.svg)](https://good-labs.github.io/greater-good-affirmation)
 
+![SLOPI logo](/slopi-logo.svg)
+
 ## tl;dr
 
 Messages written in the SLOPI (pronounced "sloppy") communication style are:
