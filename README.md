@@ -1,9 +1,5 @@
 # Searchable Linkable Open Public Indexed (SLOPI) Communication
 
-[![Gitter](https://badges.gitter.im/good-labs/community.svg)](https://gitter.im/good-labs/community)
-[![Kanban](https://img.shields.io/badge/kanban-board-black.svg)](https://github.com/orgs/good-labs/projects/3#column-5299249)
-[![https://good-labs.github.io/greater-good-affirmation/assets/images/badge.svg](https://good-labs.github.io/greater-good-affirmation/assets/images/badge.svg)](https://good-labs.github.io/greater-good-affirmation)
-
 ![SLOPI logo](/slopi-logo.svg)
 
 ## tl;dr
@@ -122,7 +118,7 @@ We love contributors! Please see our [Contributing Guide][] for ways you can hel
 
 [discussion]: https://github.com/coreinfrastructure/best-practices-badge/commit/65ebe74d7bfdf661502978311200d0c32f7b8be8
 [Core Infrastructure Initiative (CII) Best Practices]: https://bestpractices.coreinfrastructure.org
-[issue #2]: https://github.com/good-labs/slopi-communication/issues/2
-[issue #12]: https://github.com/good-labs/slopi-communication/issues/12
+[issue #2]: https://github.com/pdurbin/slopi-communication/issues/2
+[issue #12]: https://github.com/pdurbin/slopi-communication/issues/12
 [spreadsheet]: https://docs.google.com/spreadsheets/d/1wvG3XTd5YwA-SliOUCavQgqfK1jLVnlL9tuUsjHR0Ik/edit?usp=sharing
 [Contributing Guide]: CONTRIBUTING.md
