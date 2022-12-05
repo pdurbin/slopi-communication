@@ -14,6 +14,13 @@
    viewBox="0 0 220.2074 78.230621"
    height="78.230621mm"
    width="220.2074mm">
+<style>
+    @media (prefers-color-scheme:dark) {
+    path {
+        fill: #ffffff
+    }
+    }
+</style>
   <defs
      id="defs2" />
   <sodipodi:namedview
