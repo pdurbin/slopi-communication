@@ -2,6 +2,8 @@
 
 ![SLOPI logo](/slopi-logo.svg)
 
+![test svg](/test.svg)
+
 ## tl;dr
 
 Messages written in the SLOPI (pronounced "sloppy") communication style are:
