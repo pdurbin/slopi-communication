@@ -14,6 +14,8 @@
    viewBox="0 0 220.2074 78.230621"
    height="78.230621mm"
    width="220.2074mm">
+  <defs
+     id="defs2" />
 <style>
     @media (prefers-color-scheme:dark) {
     path {
@@ -21,8 +23,6 @@
     }
     }
 </style>
-  <defs
-     id="defs2" />
   <sodipodi:namedview
      inkscape:pagecheckerboard="true"
      inkscape:document-rotation="0"
