@@ -32,7 +32,7 @@ Examples of tools that support the SLOPI communication style include:
 - mailing lists with public archives
 - public forums
 - public issue trackers
-- [Gitter][]
+- [Gitter][] rooms with public logs ([#gitter_gitter], for example)
 - IRC channels with public logs ([#social][] from W3C, for example)
 - Matrix rooms with public logs (many [matrix-static][] examples)
 - XMPP rooms with public logs ([XFS][], for example)
@@ -41,6 +41,7 @@ Examples of tools that support the SLOPI communication style include:
 - public kanban boards
 
 [Gitter]: https://gitter.im
+[#gitter_gitter]: https://view.matrix.org/alias/%23gitter_gitter:gitter.im
 [#social]: http://socialwg.indiewebcamp.com/irc/social/today
 [matrix-static]: https://view.matrix.org
 [XFS]: http://logs.xmpp.org/xsf/
